@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development (Laravel & Codeigniter), Backend Development**
 
-- 📫 How to reach me **tias1508@gmail.com**
+- 📫 How to reach me **work.prasastiaasaliha@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://prasastiatia.github.io/resume/)
 
