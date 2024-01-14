@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **work.prasastiaasaliha@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://prasastiatia.github.io/resume/)
+- 📄 Know about my experiences [My Resume]([https://prasastia-aryani-saliha-resume.vercel.app])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
