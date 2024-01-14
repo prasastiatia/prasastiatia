@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Prasastia Aryani Saliha</h1>
-<h3 align="center">I am an experienced Software Engineer with 2+ years of experience [Web & Backend Development]</h3>
+<h3 align="center">I am an experienced Software Engineer with 4 years of experience [Web & Backend Development]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasastiatia&label=Profile%20views&color=0e75b6&style=flat" alt="prasastiatia" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **work.prasastiaasaliha@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://prasastia-aryani-saliha-resume.vercel.app])
+- 📄 Know about my experiences [My Resume](https://prasastia-aryani-saliha-resume.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
