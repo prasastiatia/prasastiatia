@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Prasastia Aryani Saliha</h1>
-<h3 align="center">I am an experienced Software Engineer with 4 years of experience [Web & Backend Development]</h3>
+<h3 align="center">I am an experienced Software Engineer with 6+ years of experience [Web & Backend Development]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasastiatia&label=Profile%20views&color=0e75b6&style=flat" alt="prasastiatia" /> </p>
 
